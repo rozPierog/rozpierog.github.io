@@ -6,4 +6,12 @@
     "sha256_cert_fingerprints":
     ["80:51:9F:F1:17:9B:8B:6F:FB:2F:FC:F6:3F:CB:92:C7:6C:3A:AE:AC:1A:2E:90:DB:F8:F7:EE:FC:A5:9A:55:BD"]
   }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.omelan.cofi",
+    "sha256_cert_fingerprints":
+    ["7F:5F:8C:6A:C6:FE:ED:C5:BB:C6:BB:E1:F0:C3:91:95:11:79:EE:6B:5B:6A:54:4E:D6:BA:B9:1E:D3:D2:30:C5"]
+  }
 }]
